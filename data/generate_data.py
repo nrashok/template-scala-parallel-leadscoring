@@ -30,9 +30,11 @@ def import_events(client):
   browsers = [ "Chrome", "Firefox", "Safari", "Internet Explorer" ]
 
   file = open('view_data.txt', 'w')
+  headers = "User, lands on page, referrer, browser\n"
+  file.write(headers);
   buy_data = open('buy_data.txt', 'w')
-  headers = "User, buys items\n"
-  buy_data.write(headers);
+  headers_2 = "User, buys items\n"
+  buy_data.write(headers_2);
 
   # for each session
 
@@ -45,8 +47,8 @@ def import_events(client):
     browser = random.choice(browsers)
     uid = random.choice(user_ids)
     page_id = random.choice(page_ids)
-    headers = "User, lands on page, referrer, browser\n"
-    file.write(headers);
+
+    #
     output =  uid  + "," +  page_id +  "," +  referrer_id + ", " + browser + "\n"
 
     file.write(output)

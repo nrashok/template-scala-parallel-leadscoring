@@ -1,100 +1,51 @@
 User, lands on page, referrer, browser
 u4,example.com/page13,referrer3.com, Safari
-User, lands on page, referrer, browser
 u5,example.com/page13,referrer5.com, Internet Explorer
-User, lands on page, referrer, browser
 u8,example.com/page14,referrer9.com, Safari
-User, lands on page, referrer, browser
 u1,example.com/page18,referrer6.com, Firefox
-User, lands on page, referrer, browser
 u4,example.com/page17,referrer8.com, Internet Explorer
-User, lands on page, referrer, browser
 u3,example.com/page20,referrer1.com, Chrome
-User, lands on page, referrer, browser
 u10,example.com/page14,referrer6.com, Safari
-User, lands on page, referrer, browser
 u10,example.com/page19,referrer2.com, Internet Explorer
-User, lands on page, referrer, browser
 u1,example.com/page17,referrer9.com, Internet Explorer
-User, lands on page, referrer, browser
 u4,example.com/page18,referrer1.com, Safari
-User, lands on page, referrer, browser
 u5,example.com/page13,referrer1.com, Chrome
-User, lands on page, referrer, browser
 u6,example.com/page13,referrer4.com, Firefox
-User, lands on page, referrer, browser
 u5,example.com/page15,referrer10.com, Safari
-User, lands on page, referrer, browser
 u1,example.com/page13,referrer5.com, Safari
-User, lands on page, referrer, browser
 u4,example.com/page15,referrer5.com, Safari
-User, lands on page, referrer, browser
 u5,example.com/page12,referrer10.com, Firefox
-User, lands on page, referrer, browser
 u4,example.com/page16,referrer6.com, Firefox
-User, lands on page, referrer, browser
 u3,example.com/page17,referrer8.com, Firefox
-User, lands on page, referrer, browser
 u9,example.com/page9,referrer4.com, Firefox
-User, lands on page, referrer, browser
 u3,example.com/page3,referrer9.com, Firefox
-User, lands on page, referrer, browser
 u3,example.com/page17,referrer9.com, Chrome
-User, lands on page, referrer, browser
 u4,example.com/page9,referrer8.com, Firefox
-User, lands on page, referrer, browser
 u10,example.com/page18,referrer2.com, Chrome
-User, lands on page, referrer, browser
 u9,example.com/page14,referrer3.com, Safari
-User, lands on page, referrer, browser
 u9,example.com/page1,referrer6.com, Firefox
-User, lands on page, referrer, browser
 u1,example.com/page15,referrer9.com, Safari
-User, lands on page, referrer, browser
 u4,example.com/page6,referrer10.com, Safari
-User, lands on page, referrer, browser
 u8,example.com/page19,referrer9.com, Chrome
-User, lands on page, referrer, browser
 u3,example.com/page6,referrer9.com, Chrome
-User, lands on page, referrer, browser
 u10,example.com/page18,referrer2.com, Chrome
-User, lands on page, referrer, browser
 u4,example.com/page13,referrer4.com, Firefox
-User, lands on page, referrer, browser
 u4,example.com/page2,referrer6.com, Safari
-User, lands on page, referrer, browser
 u5,example.com/page8,referrer9.com, Safari
-User, lands on page, referrer, browser
 u5,example.com/page9,referrer7.com, Chrome
-User, lands on page, referrer, browser
 u5,example.com/page3,referrer8.com, Firefox
-User, lands on page, referrer, browser
 u6,example.com/page3,referrer7.com, Safari
-User, lands on page, referrer, browser
 u1,example.com/page17,referrer9.com, Chrome
-User, lands on page, referrer, browser
 u10,example.com/page12,referrer7.com, Internet Explorer
-User, lands on page, referrer, browser
 u8,example.com/page19,referrer8.com, Chrome
-User, lands on page, referrer, browser
 u7,example.com/page16,referrer2.com, Chrome
-User, lands on page, referrer, browser
 u5,example.com/page15,referrer6.com, Internet Explorer
-User, lands on page, referrer, browser
 u6,example.com/page10,referrer8.com, Safari
-User, lands on page, referrer, browser
 u5,example.com/page15,referrer10.com, Safari
-User, lands on page, referrer, browser
 u7,example.com/page20,referrer4.com, Chrome
-User, lands on page, referrer, browser
 u6,example.com/page6,referrer5.com, Internet Explorer
-User, lands on page, referrer, browser
 u8,example.com/page3,referrer4.com, Firefox
-User, lands on page, referrer, browser
 u5,example.com/page15,referrer8.com, Internet Explorer
-User, lands on page, referrer, browser
 u3,example.com/page4,referrer3.com, Chrome
-User, lands on page, referrer, browser
 u9,example.com/page6,referrer1.com, Chrome
-User, lands on page, referrer, browser
 u5,example.com/page10,referrer1.com, Firefox
